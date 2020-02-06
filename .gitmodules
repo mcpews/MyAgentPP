@@ -1,0 +1,15 @@
+[submodule "libnbtplusplus"]
+	path = libnbtplusplus
+	url = git@github.com:ljfa-ag/libnbtplusplus.git
+[submodule "uSockets"]
+	path = uSockets
+	url = git@github.com:uNetworking/uSockets.git
+[submodule "zlib"]
+	path = zlib
+	url = git@github.com:madler/zlib.git
+[submodule "libuv"]
+	path = libuv
+	url = git@github.com:libuv/libuv.git
+[submodule "mingw-std-threads"]
+	path = mingw-std-threads
+	url = git@github.com:meganz/mingw-std-threads.git
